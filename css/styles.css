@@ -1,0 +1,22 @@
+body {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 100%;
+	text-align: center;  /*Centre content for IE5 */
+	color: #505050;
+	background: #FFF;
+	word-wrap: break-word;
+}
+
+#container {
+	margin: 20px auto;
+	width: 600px;
+}
+
+#canvas {
+	border: 1px solid #000;
+	display: block;
+}
+
+img {
+	display: block;
+}
